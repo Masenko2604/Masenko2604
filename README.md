@@ -1,8 +1,8 @@
 
- <p align="center">
-    <marquee behavior="scroll" direction="left">
-        Hi, I'm Tetyana
-    </marquee>
+<p align="center">
+  <span style="white-space: nowrap;">
+    <b><em>Hi, I'm Tetyana</em></b>
+  </span>
 </p>
 
 
