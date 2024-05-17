@@ -1,5 +1,7 @@
 <h2><i>Hi, I'm Tetyana</i></h2>
 
+<img src="https://camo.githubusercontent.com/dd04d9238623942fa32e71503a7885f9c46f5ecf5a435cec1e35967de2229938/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f66674c507579796f787a6c3331363678476f2f67697068792d646f776e73697a65642d6c617267652e676966">
+
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/tetyana-masyenko-3533942a5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/https://github.com/Masenko2604/Masenko2604" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
