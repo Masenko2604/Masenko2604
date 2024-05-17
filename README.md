@@ -1,23 +1,6 @@
-<section>
-    <div>Hi, I'm Tetyana</div>
-</section>
 
-<style>
-    div {
-        font-size: 16px;
-        animation: marquee 15s infinite linear;
-        font-size: sans-serif;
-    }
+  Hi, I'm Tetyana
 
-    @keyframes marquee {
-        0% {
-            transform: translateX(0);
-        }
-        100% {
-            transform: translateX(-50%);
-        }
-    }
-</style>
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/tetyana-masyenko-3533942a5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/https://github.com/Masenko2604/Masenko2604" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
