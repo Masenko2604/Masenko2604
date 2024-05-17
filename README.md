@@ -1,4 +1,123 @@
+@radius: 300px;
+@dotSize: 6px;
+@spokesNum: 36;
+@planesNum: 12;
 
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+   background: #333;
+}
+
+.main-wrapper {
+  display: flex;
+  position: absolute;
+	transform-style: preserve-3d;
+	perspective: 400px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  align-items: center;
+  justify-content: center;
+}
+.sphere-wrapper {
+	transform-style: preserve-3d;
+  width: @radius;
+  height: @radius;
+  position: relative;
+  // background: rgba(255,255,255,.1);
+  // border-radius: 50%;
+  animation: rotate3d 10s linear infinite;
+}
+.plane {
+  position: absolute;
+  transform-style: preserve-3d;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.spoke {
+  transform-origin: 0 0;
+  transform-style: preserve-3d;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  height: @radius/2;
+  width: 0px;
+  }
+
+.dot {
+  position: absolute;
+  width: @dotSize;
+  height: @dotSize;
+  border-radius: 50%;
+  background: rgba(255,255,255,1);
+  left: -@dotSize/2;
+  top: 100%;
+  }
+
+.place-spokes(@spokes: @spokesNum; @i: 1) when (@i < @spokes) {
+  @currDeg: unit((360 / @spokes * @i), deg);
+  .spoke.spoke-@{i} {
+    transform: rotateZ(@currDeg);
+  }
+  .place-spokes(@spokes; @i + 1);
+}
+
+.place-planes(@planes: @planesNum; @i: 1) when (@i < @planes) {
+  @currDeg: unit(180 / @planes * @i, deg);
+  .plane.plane-@{i} {
+    transform: rotateY(@currDeg);
+  }
+  .place-planes(@planes; @i + 1);
+}
+
+.animate-dots(@spokes: @spokesNum/2; @i: 0) when (@i <= @spokes) {
+  @delay: unit(@i/@spokes, s);
+  @j: @spokesNum - @i;
+  @colorDeg: unit(360/@spokesNum*@i, deg);
+  .spoke-@{i} .dot, .spoke-@{j} .dot  {
+    animation: pulsate .5s infinite @delay alternate both;
+    background-color: spin(#f95, @colorDeg);
+  }
+  .animate-dots(@spokes, @i + 1);
+}
+
+.place-spokes();
+.place-planes();
+.animate-dots();
+
+@keyframes rotate3d {
+	  0% { transform: rotate3d(1,1,1,0deg)};
+   25% { transform: rotate3d(1,1,1,90deg)};
+   50% { transform: rotate3d(1,1,1,180deg)};
+   75% { transform: rotate3d(1,1,1,270deg)};
+	100% { transform: rotate3d(1,1,1,360deg)};
+}
+
+@keyframes pulsate {
+    0% { transform: rotateX(90deg) scale(.3) translateZ(20px); }
+  100% { transform: rotateX(90deg) scale(1) translateZ(0px); }
+}
+
+.animista-badge {
+  font: normal 15px/1.5 sans-serif;
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  color: rgba(255,255,255,.8);
+  padding: .5em 1em;
+}
+
+a {
+  color: #ff6060;
+  text-decoration: none;
+  &:hover { text-decoration: underline; }
+}
 
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/tetyana-masyenko-3533942a5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
