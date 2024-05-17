@@ -1,9 +1,50 @@
 
-<p align="center">
-  <span style="white-space: nowrap;">
-    <b><em>Hi, I'm Tetyana</em></b>
-  </span>
-</p>
+Html
+
+Insert code
+<!DOCTYPE html>
+<html>
+<head>
+    <title>README</title>
+    <style>
+        p {
+            text-align: center;
+        }
+
+        #marquee {
+            white-space: nowrap;
+        }
+    </style>
+</head>
+<body>
+    <p>
+        <span id="marquee"></span>
+    </p>
+
+    <script>
+        const marquee = document.querySelector('#marquee');
+        const text = "Hi, I'm Tetyana";
+        let animation = null;
+
+        function animateMarquee() {
+            marquee.textContent = text;
+            marquee.style.transform = 'translateX(100%)';
+            marquee.style.transition = 'none';
+
+            const marqueeWidth = marquee.clientWidth;
+            const containerWidth = marquee.parentElement.clientWidth;
+
+            if (marqueeWidth > containerWidth) {
+                marquee.style.transition = `transform ${marqueeWidth / 50}s linear`;
+                marquee.style.transform = `translateX(-${marqueeWidth}px)`;
+                animation = requestAnimationFrame(animateMarquee);
+            }
+        }
+
+        animateMarquee();
+    </script>
+</body>
+</html>
 
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/tetyana-masyenko-3533942a5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
