@@ -1,11 +1,5 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/Masenko2604/Masenko2604&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/Masenko2604/Masenko2604" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/Masenko2604/Masenko2604&theme=" alt="https://github.com/Masenko2604/Masenko2604" /></a> </p>
-
-
-- 📫 How to reach me **masyenko@gmail.com**
-- 📄 Know about my experiences **https://masenko2604.github.io/resume/**
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/tetyana-masyenko-3533942a5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/https://github.com/Masenko2604/Masenko2604" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
