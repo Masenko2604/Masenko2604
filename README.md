@@ -1,4 +1,5 @@
 <h2><i>Hi, I'm Tetyana</i></h2>
+<img> src="6785-195986684_tiny">
 
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/tetyana-masyenko-3533942a5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
