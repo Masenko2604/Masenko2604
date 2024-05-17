@@ -1,5 +1,4 @@
 <h2><i>Hi, I'm Tetyana</i></h2>
-<html> <head> <title>README</t<wbr>itle> <link rel="stylesheet"<wbr> href="https://fo<wbr>nts.googleapis.c<wbr>om/css?family=Po<wbr>ppins:100,200,30<wbr>0,400,500,600,70<wbr>0,800,900"> <style> * { margin: 0; padding: 0; box-sizing: border-box; font-family: "Poppins", sans-serif; } section { background-color<wbr>: #f6f6f6; padding: 20px; } .content { text-align: center; } h2 { font-size: 24px; margin-bottom: 10px; color: red; } </style> </head> <body> <section> <div class="content"><wbr> <h2>Hi,</h2> <h2>I'm</h2> <h2>Tetyana</h2><wbr> </div> </section> </body> </html>
 
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/tetyana-masyenko-3533942a5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
