@@ -5,9 +5,6 @@
 - 📫 How to reach me **masyenko@gmail.com**
 - 📄 Know about my experiences **[https://github.com/Masenko2604/resume](https://masenko2604.github.io/resume/)**
 
-<div> <a href="//https://www.linkedin.com/in/tetyana-masyenko-3533942a5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:masyenko@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
