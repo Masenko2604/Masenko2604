@@ -7,8 +7,8 @@
  
 
 
-- 📫 How to reach me **masyenko@gmail.com**
-- 📄 Know about my experiences **[https://github.com/Masenko2604/resume](https://masenko2604.github.io/resume/)**
+- 📫 Email: **masyenko@gmail.com**
+- 📄 Resume: **[https://github.com/Masenko2604/resume](https://masenko2604.github.io/resume/)**
 
 
 <h3 align="left">Languages and Tools:</h3>
