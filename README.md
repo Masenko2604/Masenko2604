@@ -1,7 +1,6 @@
-<div align="center">
-  <h2><i>Hi, I'm Tetyana</i></h2>     <div align="center">
+
   <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Teyana Over 1 years of programming experience, always learning new things</h1>
+<h2 align="center">Hi 👋, I'm Teyana, I am open to cooperation, I continue to develop and improve my skills</h2>
 
 - 📫 How to reach me **masyenko@gmail.com**
 - 📄 Know about my experiences **https://github.com/Masenko2604/resume**
