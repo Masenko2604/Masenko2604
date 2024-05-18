@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100" style="max-width: 100%;">
  </div>
 
-Languages : 🇺🇦 Ukrainian - Native | RU Russian - Native | 🇬🇧 English - A2 | cz Czech - B2
+Languages : 🇺🇦 Ukrainian - Native | ru Russian - Native | 🇬🇧 English - A2 | cz Czech - B2
 - 📫 Email: **masyenko@gmail.com**
 - 📄 Resume: **[https://github.com/Masenko2604/resume](https://masenko2604.github.io/resume/)**
 
