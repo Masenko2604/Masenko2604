@@ -1,6 +1,6 @@
 
   <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h2 align="center">Hi 👋, I'm Teyana, I am open to cooperation, I continue to develop and improve my skills</h2>
+<h2 align="center"><i>Hi 👋, I'm Teyana, I am open to cooperation, I continue to develop and improve my skills<i></i></h2>
 
 - 📫 How to reach me **masyenko@gmail.com**
 - 📄 Know about my experiences **[https://github.com/Masenko2604/resume](https://masenko2604.github.io/resume/)**
