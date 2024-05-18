@@ -1,7 +1,82 @@
 <div align="center">
   <h2><i>Hi, I'm Tetyana</i></h2>
-  <img src="https://camo.githubusercontent.com/dd04d9238623942fa32e71503a7885f9c46f5ecf5a435cec1e35967de2229938/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f66674c507579796f787a6c3331363678476f2f67697068792d646f776e73697a65642d6c617267652e676966" width=100% height=180px align="center">
+<!--   <img src="https://camo.githubusercontent.com/dd04d9238623942fa32e71503a7885f9c46f5ecf5a435cec1e35967de2229938/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f66674c507579796f787a6c3331363678476f2f67697068792d646f776e73697a65642d6c617267652e676966" width=100% height=180px align="center">
+</div> -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sphere Animation</title>
+<style>
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+  background: #000; /* Assuming you want a black background */
+}
+.main-wrapper {
+  display: flex;
+  position: absolute;
+  transform-style: preserve-3d;
+  perspective: 400px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  align-items: center;
+  justify-content: center;
+}
+.sphere-wrapper {
+  transform-style: preserve-3d;
+  width: 300px; /* @radius */
+  height: 300px; /* @radius */
+  position: relative;
+  animation: rotate3d 10s linear infinite;
+}
+.plane {
+  position: absolute;
+  transform-style: preserve-3d;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.spoke {
+  transform-origin: 0 0;
+  transform-style: preserve-3d;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  height: 150px; /* @radius/2 */
+  width: 0px;
+}
+.dot {
+  position: absolute;
+  width: 6px; /* @dotSize */
+  height: 6px; /* @dotSize */
+  border-radius: 50%;
+  background: rgba(255,255,255,1);
+  left: -3px; /* @dotSize/2 */
+  top: 100%;
+  transform: rotateX(90deg);
+}
+/* Additional styles for planes and spokes would be calculated and added here */
+/* Keyframes for animations would be added here */
+</style>
+</head>
+<body>
+<div class="main-wrapper">
+  <div class="sphere-wrapper">
+    <!-- Planes and spokes generated here -->
+  </div>
 </div>
+</body>
+</html>
+
+
+
 
 
 <div align="center"> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/tetyana-masyenko-3533942a5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
