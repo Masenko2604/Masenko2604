@@ -1,4 +1,4 @@
-<img src="https://cdn.pixabay.com/video/2017/12/05/13232-246463976_large.mp4" widtch="100% />
+
   <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h2 align="center">Hi 👋, I'm Teyana, I am open to cooperation, I continue to develop and improve my skills</h2>
 
