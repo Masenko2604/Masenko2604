@@ -1,4 +1,7 @@
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Teyana;I+am+open+to+cooperation;I+continue+to+develop+;and+improve+my+skills" alt="Typing SVG" align="center" /></a>
+  
+  
+  
   <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 
