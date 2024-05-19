@@ -3,8 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Karla&weight=600&size=32&pause=1000&color=42EEF0&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile+!;Hi%F0%9F%91%8B%2C+I'm+Tetyana;I+am+open+to+cooperation;I+continue+to+develop+;and+improve+my+skills." alt="Typing SVG" />
   </a>
 
-  <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100" style="max-width: 100%;">
- </div>
+
 
 Languages : 🇺🇦 Ukrainian - Native | ru Russian - Native | 🇬🇧 English - A2 | cz Czech - B2
 - 📫 Email: **masyenko@gmail.com**
@@ -13,6 +12,9 @@ Languages : 🇺🇦 Ukrainian - Native | ru Russian - Native | 🇬🇧 English
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+
+<a target="_blank" rel="noopener noreferrer" href="/ViktorSvertoka/ViktorSvertoka/blob/main/images/01-html5.svg"><img src="/Masenko2604/Masenko2604/raw/main/images/01-html5.svg" alt="HTML5" width="44" height="44" style="max-width: 100%;"></a>
+
   
  <img src="/Masenko2604/Masenko2604/raw/main/images/01-html5.svg" alt="HTML5" width="44" height="44" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
