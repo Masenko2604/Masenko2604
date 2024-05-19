@@ -14,9 +14,11 @@ Languages : 🇺🇦 Ukrainian - Native | ru Russian - Native | 🇬🇧 English
 <p align="left">
 
 <td align="center" width="88">
-         <a target="_blank" rel="noopener noreferrer" href="/Masenko2604/Masenko2604/"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="60" height="60" padding="0"></a>
-      <br>HTML5
-    </td>
+  <a target="_blank" rel="noopener noreferrer" href="/Masenko2604/Masenko2604/" style="display: block; margin-bottom: -5px;">
+    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40">
+  </a>
+  <br>HTML5
+</td>
 
 
   
