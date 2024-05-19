@@ -13,7 +13,6 @@ Languages : 🇺🇦 Ukrainian - Native | ru Russian - Native | 🇬🇧 English
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-<a target="_blank" rel="noopener noreferrer" href="/Masenko2604/Masenko2604/blob/main/images/01-html5.svg"><img src="/Masenko2604/Masenko2604/raw/main/images/01-html5.svg" alt="HTML5" width="44" height="44" style="max-width: 100%;"></a>
 
   
  <img src="/Masenko2604/Masenko2604/raw/main/images/01-html5.svg" alt="HTML5" width="44" height="44" style="max-width: 100%;">
