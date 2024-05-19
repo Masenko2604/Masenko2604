@@ -14,6 +14,10 @@ Languages : 🇺🇦 Ukrainian - Native | ru Russian - Native | 🇬🇧 English
 <p align="left">
 
 
+<td align="center" width="88">
+         <a target="_blank" rel="noopener noreferrer" href="/Masenko2604/Masenko2604/blob/main/images/01-html5.svg"><img src="/Masenko2604/Masenko2604/raw/main/images/01-html5.svg" alt="HTML5" width="44" height="44" style="max-width: 100%;"></a>
+      <br>HTML5
+    </td>
   
 
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
