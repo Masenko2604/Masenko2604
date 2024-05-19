@@ -15,7 +15,7 @@ Languages : 🇺🇦 Ukrainian - Native | ru Russian - Native | 🇬🇧 English
 
 
 
-  
+<div style="display: flex; justify-content: center; align-items: center;">  
 <td align="center" width="88">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
   <br>HTML5
@@ -33,6 +33,7 @@ Languages : 🇺🇦 Ukrainian - Native | ru Russian - Native | 🇬🇧 English
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
+</div>
 
 
 
