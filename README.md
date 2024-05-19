@@ -16,7 +16,7 @@ Languages : 🇺🇦 Ukrainian - Native | ru Russian - Native | 🇬🇧 English
 
 
   
-<td align="center" width="88">
+<td align="center" width="88" padding="2">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
   <br>HTML5
     </td>
