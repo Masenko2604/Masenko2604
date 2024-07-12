@@ -11,7 +11,7 @@
 
 
 
-Languages : 🇺🇦 Ukrainian - Native | ru Russian - Native | 🇬🇧 English - A2 | cz Czech - B2
+Languages : 🇺🇦 Ukrainian - Native | ru Russian - Native | 🇬🇧 English - A2 | cz Czech - B1
 - 📫 Email: **masyenko@gmail.com**
 - 📄 Resume: **[https://github.com/Masenko2604/resume](https://masenko2604.github.io/resume/)**
 
