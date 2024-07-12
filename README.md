@@ -1,9 +1,94 @@
 <div style="display: flex; justify-content: center; align-items: center;">
-<!--   <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Karla&weight=600&size=32&pause=1000&color=42EEF0&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile+!;Hi%F0%9F%91%8B%2C+I'm+Tetyana;I+am+open+to+cooperation;I+continue+to+develop+;and+improve+my+skills." alt="Typing SVG" />
-  </a> -->
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100" style="max-width: 100%;">
- </div>
+  </a>
+<!-- <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100" style="max-width: 100%;">
+ </div> -->
+//Pug
+- var i = 0;
+- var j = 0;
+- var planes = 12;
+- var spokes = 36;
+
+// Sphere
+.main-wrapper
+  .sphere-wrapper
+    while i < planes
+      - i++
+      .plane(class="plane-"+ i)
+        - j = 0
+        while j < spokes
+          - j++
+          .spoke(class="spoke-"+ j)
+            .dot
+//Less
+@radius: 300px;
+@dotSize: 6px;
+@spokesNum: 36;
+@planesNum: 12;
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+  background: #333;
+}
+
+.main-wrapper {
+  display: flex;
+  position: absolute;
+  transform-style: preserve-3d;
+  perspective: 400px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  align-items: center;
+  justify-content: center;
+}
+
+.sphere-wrapper {
+  transform-style: preserve-3d;
+  width: @radius;
+  height: @radius;
+  position: relative;
+  animation: rotate3d 10s linear infinite;
+}
+
+.plane {
+  position: absolute;
+  transform-style: preserve-3d;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.spoke {
+  transform-origin: 0 0;
+  transform-style: preserve-3d;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  height: @radius/2;
+  width: 0px;
+}
+
+.dot {
+  position: absolute;
+  width: @dotSize;
+  height: @dotSize;
+  border-radius: 50%;
+  background: rgba(255, 255,255,1);
+  left: -@dotSize/2;
+  top: 100%;
+  transform: rotateX(90deg);
+}
+
+.place-spokes(@spokes: @spokesNum; @i: 1) when (@i < @spokes) {
+  @currDeg: unit((360 / @spokes * @i), deg);
+  .spoke.spoke-@{i} {
 
 
 Languages : 🇺🇦 Ukrainian - Native | ru Russian - Native | 🇬🇧 English - A2 | cz Czech - B2
