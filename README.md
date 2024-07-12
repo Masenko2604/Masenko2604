@@ -1,6 +1,6 @@
 <div style="display: flex;">
 
-  <img src="https://i.gifer.com/origin/57/57fb961c57983056773ed68242bcfd7d_w200.gif" width="200" height="200" style="max-width: 50%; order: 1;">
+  <img src="https://i.gifer.com/origin/57/57fb961c57983056773ed68242bcfd7d_w200.gif" width="200" height="200" style="max-width: 50%; order: 4;">
 
   <a href="https://git.io/typing-svg">
    <img #img-representation-1 alt="Typing SVG" style="order: 2;"/>
